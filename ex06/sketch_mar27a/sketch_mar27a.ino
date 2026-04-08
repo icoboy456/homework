@@ -1,4 +1,4 @@
-// 两个LED引脚（你要的 D2、D4）
+  // 两个LED引脚（你要的 D2、D4）
 const int ledA = 2;
 const int ledB = 4;
 
